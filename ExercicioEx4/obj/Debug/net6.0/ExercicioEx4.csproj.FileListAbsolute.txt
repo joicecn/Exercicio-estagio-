@@ -1,0 +1,15 @@
+C:\dev\git\ConsoleApp1\ExercicioEx4\bin\Debug\net6.0\ExercicioEx4.exe
+C:\dev\git\ConsoleApp1\ExercicioEx4\bin\Debug\net6.0\ExercicioEx4.deps.json
+C:\dev\git\ConsoleApp1\ExercicioEx4\bin\Debug\net6.0\ExercicioEx4.runtimeconfig.json
+C:\dev\git\ConsoleApp1\ExercicioEx4\bin\Debug\net6.0\ExercicioEx4.dll
+C:\dev\git\ConsoleApp1\ExercicioEx4\bin\Debug\net6.0\ExercicioEx4.pdb
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\ExercicioEx4.csproj.AssemblyReference.cache
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\ExercicioEx4.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\ExercicioEx4.AssemblyInfoInputs.cache
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\ExercicioEx4.AssemblyInfo.cs
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\ExercicioEx4.csproj.CoreCompileInputs.cache
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\ExercicioEx4.dll
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\refint\ExercicioEx4.dll
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\ExercicioEx4.pdb
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\ExercicioEx4.genruntimeconfig.cache
+C:\dev\git\ConsoleApp1\ExercicioEx4\obj\Debug\net6.0\ref\ExercicioEx4.dll
